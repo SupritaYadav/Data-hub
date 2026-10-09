@@ -7,10 +7,10 @@ A backend-only REST API built with Node.js and Express for Sprint 09 Track B. Th
 - Node.js 18 or newer
 - npm
 - Postman or Thunder Client
-
-![preview](./docs/testing-img1.png)
-![preview](./docs/testing-img2.png)
-
+---
+![Preview](./docs/testing-img1.png)
+![Preview](./docs/testing-img2.png)
+---
 ## Run locally
 
 1. Open this folder in a terminal.
